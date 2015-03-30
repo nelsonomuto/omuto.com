@@ -1,0 +1,2 @@
+# omuto.com
+personal blog
